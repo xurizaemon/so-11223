@@ -1,0 +1,19 @@
+{
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "codeception-drupal-pages",
+        "version": "0.2.1",
+        "source": {
+          "url": "https://github.com/fuzionnz/codeception-drupal-pages.git",
+          "type": "git",
+          "reference": "develop"
+        }
+      }
+    }
+  ],
+  "require": {
+    "codeception-drupal-pages": "*"
+  }
+}
